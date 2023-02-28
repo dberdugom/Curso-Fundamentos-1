@@ -1,0 +1,18 @@
+html{
+    background-color: silver;
+}
+h1{
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+table {
+    background-color: rgb(110, 108, 108);
+    border: solid 3px rgb(240, 240, 169);
+    border-collapse: collapse;
+    color: white;
+}
+td, th {
+    border: rgb(240, 240, 169);
+    padding: 3px;
+}
